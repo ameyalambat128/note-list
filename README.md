@@ -1,6 +1,7 @@
 <div align="center">
 
 # Django & React Notes App
+</div>
 
 ### Cloning the repository
 
