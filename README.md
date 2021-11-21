@@ -1,6 +1,6 @@
 # Notetaking-App
 
-## Cloning this repository on your machine
+### Cloning this repository on your machine
 
 - Using the command line to clone
  ```
