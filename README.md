@@ -11,7 +11,8 @@ git clone https://github.com/ameyalambat128/Notetaking-App.git
 
 ```
 
-> Install python if you haven't!\n
+> Install python if you haven't!
+
 
 - Move into the directory where we have the project files : 
 ```bash
@@ -19,6 +20,11 @@ cd Notetaking-App
 
 ```
 
+
+- Install the virtual environment package
+```bash
+python -m pip install --user virtualenv  
+```
 
 - Create a virtual environment :
 ```bash
@@ -34,6 +40,16 @@ python -m venv env
 .\env\Scripts\activate
 # If you are on Linux or Mac
 source env/bin/activate
+```
+
+- Install Django from the command line : 
+```bash
+python -m pip install django
+```
+> Install these frameworks too
+```bash
+pip install djangorestframwork
+pip install django-cors-headers   
 ```
 
 #
