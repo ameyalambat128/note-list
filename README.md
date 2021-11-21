@@ -17,6 +17,7 @@ cd Django-React-NotesApp
 
 ```
 
+
 - Create a virtual environment :
 ```bash
 # If you are on Windows
