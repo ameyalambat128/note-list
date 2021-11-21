@@ -1,3 +1,4 @@
 # Notetaking-App
-
-# code
+ ```
+ git clone
+ ```
