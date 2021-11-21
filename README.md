@@ -13,7 +13,7 @@ git clone https://github.com/ameyalambat128/Notetaking-App.git
 
 - Move into the directory where we have the project files : 
 ```bash
-cd Django-React-NotesApp
+cd Notetaking-App
 
 ```
 
