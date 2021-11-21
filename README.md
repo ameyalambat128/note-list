@@ -11,6 +11,8 @@ git clone https://github.com/ameyalambat128/Notetaking-App.git
 
 ```
 
+> Install python if you haven't!
+
 - Move into the directory where we have the project files : 
 ```bash
 cd Notetaking-App
