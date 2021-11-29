@@ -49,7 +49,7 @@ python -m pip install django
 ```
 > Install these frameworks too
 ```bash
-pip install djangorestframwork
+pip install djangorestframework
 pip install django-cors-headers   
 ```
 
