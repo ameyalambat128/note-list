@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
 
 :root {
   --color-main: #70ff7c;
   --color-text: #383a3f;
-  --color-dark: #1f2124;
+  --color-dark: #42464d;
   --color-gray: #677;
   --color-bg: #f3f6f9;
   --color-light: #acb4bd;
@@ -17,7 +17,7 @@
   --color-text: #d6d1d1;
   --color-dark: #f5f6f7;
   --color-gray: #999;
-  --color-bg: #1f2124;
+  --color-bg: #42464d;
   --color-lighter: #292a2c;
   --color-white: #2e3235;
   --color-border: #252629;
@@ -29,7 +29,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Lexend", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   color: inherit;
   font-size: inherit;
   scroll-behavior: smooth;
@@ -81,7 +81,7 @@ a {
 .app-header h1 {
   font-size: 30px;
   color: var(--color-dark);
-  font-weight: 800;
+  font-weight: 600;
   text-align: center;
 }
 
@@ -99,7 +99,7 @@ a {
 }
 
 .app-body {
-  padding: 16px;
+  padding: 20px;
 }
 
 /* NOTES STYLES */
