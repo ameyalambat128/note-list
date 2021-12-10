@@ -3,7 +3,7 @@
 
 # NoteTaking-App
 
-
+ 
 ### Cloning the repository
 
 - Clone the repository using the command below :
