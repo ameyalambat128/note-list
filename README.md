@@ -1,9 +1,7 @@
+# Note-List
+
 ![Notetaking-App](https://user-images.githubusercontent.com/63185829/143322196-ef1b39a0-4205-4875-99e2-b08128cb7956.png)
 
-
-# NoteTaking-App
-
- 
 ### Cloning the repository
 
 - Clone the repository using the command below :
