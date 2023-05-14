@@ -27,8 +27,6 @@ python -m pip install --user virtualenv
 
 - Create a virtual environment :
 ```bash
-# If you are on Windows
-virtualenv env
 # If you are on Linux or Mac
 python -m venv env
 ```
